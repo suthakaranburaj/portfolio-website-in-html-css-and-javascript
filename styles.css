@@ -728,31 +728,20 @@ nav .fa-solid{
         margin-left: 50px;
     }
 }
-@media only screen and (max-width:394px)
+@media only screen and (max-width:361px)
 {
-    nav:hover{
-        background-color: black;
-    }
     .fa-bars {
-        margin-left: 280px;
+        margin-left: 300px;
     }
     .header-text h1 {
         margin-left: 40px;
         font-size: 30px;
     }
     .header-text p {
-       
-            margin-left: 50px;
-            margin-top: 20px;
-            font-size: 20px;
-        }
-    
-    #header {
-        background-size: 45vh;
-        height: 80vh;
-    }
-    .about-col-1 {
-        margin-left: 20px;
+        margin-top: 15px;
+        margin-right: 0;
+        margin-left: 40px;
+        font-size: 20px;
     }
     .about-col-2 p {
         font-size: 12px;
@@ -778,8 +767,5 @@ nav .fa-solid{
     .contact p {
         margin-top: 10px;
         font-size: 11px;
-    }
-    .tab-titles p {
-        margin-right: 0px;
     }
 }
